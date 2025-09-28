@@ -1,6 +1,6 @@
 # hello
 
-**This repository is an exercise for PSYCH 251: experimental Methods.
+**This repository is an exercise for PSYCH 251: experimental Methods.**
 
 Changes Made: 
 
